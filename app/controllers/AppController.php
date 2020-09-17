@@ -19,8 +19,11 @@ class AppController extends parentAlias
 
     }
 
-    public function notMyMethod()
+    /**
+     * @param $method
+     */
+    public function notMyMethod($method)
     {
-        
+
     }
 }
