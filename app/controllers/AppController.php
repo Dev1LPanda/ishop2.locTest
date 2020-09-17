@@ -18,4 +18,9 @@ class AppController extends parentAlias
     {
 
     }
+
+    public function notMyMethod()
+    {
+        
+    }
 }
