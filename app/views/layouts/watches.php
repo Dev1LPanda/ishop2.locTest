@@ -8,15 +8,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html>
 <head>
     <?=$this->getMeta();?>
-    <link href="../public/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="/public/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
     <!--Custom-Theme-files-->
     <!--theme-style-->
-    <link href="../public/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="/public/css/style.css" rel="stylesheet" type="text/css" media="all" />
     <!--//theme-style-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <!--start-menu-->
-    <link href="../public/css/memenu.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="/public/css/memenu.css" rel="stylesheet" type="text/css" media="all" />
 </head>
 <body>
 <!--top-header-->
@@ -26,11 +26,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="col-md-6 top-header-left">
                 <div class="drop">
                     <div class="box">
-                        <select tabindex="4" class="dropdown drop">
-                            <option value="" class="label">Dollar :</option>
-                            <option value="1">Dollar</option>
-                            <option value="2">Euro</option>
-                        </select>
+                        <ul id="currency" tabindex="4" class="dropdown drop">
+                            <?php new \app\widgets\currency\Currency(); ?>
+                        </ul>
                     </div>
                     <div class="box1">
                         <select tabindex="4" class="dropdown">
@@ -45,10 +43,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             </div>
             <div class="col-md-6 top-header-left">
                 <div class="cart box_1">
-                    <a href="checkout.html">
+                    <a href="/public/checkout.html">
                         <div class="total">
                             <span class="simpleCart_total"></span></div>
-                        <img src="../public/images/cart-1.png" alt="" />
+                        <img src="/public/images/cart-1.png" alt="" />
                     </a>
                     <p><a href="javascript:;" class="simpleCart_empty">Empty Cart</a></p>
                     <div class="clearfix"> </div>
@@ -69,7 +67,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <div class="container">
         <div class="header">
             <div class="col-md-9 header-left">
-                <div class="top-nav">
+                <div class="menu">
+                    <?php new \app\widgets\menu\Menu([
+                        'tpl' => WWW . '/menu/menu.php',
+                        'table' => 'test',
+                    ]);?>
+                </div>
+                <!--<div class="top-nav">
                     <ul class="memenu skyblue"><li class="active"><a href="index.html">Home</a></li>
                         <li class="grid"><a href="#">Men</a>
                             <div class="mepanel">
@@ -205,7 +209,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <li class="grid"><a href="contact.html">Contact</a>
                         </li>
                     </ul>
-                </div>
+                </div>-->
                 <div class="clearfix"> </div>
             </div>
             <div class="col-md-3 header-right">
@@ -287,14 +291,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     </div>
 </div>
 <!--footer-end-->
-<script src="../public/js/jquery-1.11.0.min.js"></script>
-<script src="../public/js/simpleCart.min.js"> </script>
-<script type="text/javascript" src="../public/js/memenu.js"></script>
+<script src="/public/js/jquery-1.11.0.min.js"></script>
+<script src="/public/js/simpleCart.min.js"> </script>
+<script type="text/javascript" src="/public/js/memenu.js"></script>
 <script>$(document).ready(function(){$(".memenu").memenu();});</script>
 <!--dropdown-->
-<script src="../public/js/jquery.easydropdown.js"></script>
+<script src="/public/js/jquery.easydropdown.js"></script>
 <!--Slider-Starts-Here-->
-<script src="../public/js/responsiveslides.min.js"></script>
+<script src="/public/js/responsiveslides.min.js"></script>
 <script>
     // You can also use "$(window).load(function() {"
     $(function () {

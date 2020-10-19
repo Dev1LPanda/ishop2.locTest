@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d0ddb30-5b4c-4776-97b1-297a867c922d" name="Default Changelist" comment="Second Commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Dev1LPanda/ishop2.loc" />
+      </set>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/gabordemooij/redbean" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/ishop/core" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1hMRBXDjNNUxmwckxPad4tgfkTk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tik-top.com" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.PHP" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="cd app" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d0ddb30-5b4c-4776-97b1-297a867c922d" name="Default Changelist" comment="" />
+      <created>1599818840224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599818840224</updated>
+      <workItem from="1599818841745" duration="914000" />
+      <workItem from="1599819773208" duration="646000" />
+      <workItem from="1599827965227" duration="1725000" />
+      <workItem from="1599829718521" duration="514000" />
+      <workItem from="1599830247363" duration="124000" />
+      <workItem from="1599830401740" duration="149000" />
+      <workItem from="1599830561939" duration="462000" />
+      <workItem from="1599831037734" duration="466000" />
+      <workItem from="1599831517187" duration="497000" />
+      <workItem from="1599833828135" duration="45000" />
+      <workItem from="1600072861923" duration="104000" />
+      <workItem from="1600072977665" duration="528000" />
+      <workItem from="1600073522232" duration="284000" />
+      <workItem from="1600256240552" duration="4024000" />
+      <workItem from="1600262151940" duration="5446000" />
+      <workItem from="1600269949823" duration="510000" />
+      <workItem from="1600270715635" duration="1623000" />
+      <workItem from="1600272364265" duration="766000" />
+      <workItem from="1600331657694" duration="1837000" />
+      <workItem from="1600333523240" duration="185000" />
+      <workItem from="1600333723352" duration="420000" />
+      <workItem from="1600340476037" duration="1624000" />
+      <workItem from="1600343664436" duration="4821000" />
+      <workItem from="1600351649929" duration="757000" />
+      <workItem from="1600356801674" duration="1536000" />
+      <workItem from="1600358360971" duration="2198000" />
+      <workItem from="1600360872297" duration="976000" />
+      <workItem from="1600420832514" duration="3963000" />
+      <workItem from="1600427987913" duration="1933000" />
+      <workItem from="1600683022633" duration="4598000" />
+      <workItem from="1600697587293" duration="33000" />
+    </task>
+    <task id="LOCAL-00001" summary="FULL COMMIT">
+      <created>1600341020415</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600341020415</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Second Commit">
+      <created>1600341295954</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600341295954</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Second Commit">
+      <created>1600341981432</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600341981432</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="FULL COMMIT" />
+    <MESSAGE value="Second Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="72" y="184" key="#Deployment" timestamp="1600271911608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="72" y="184" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1600271911608" />
+    <state x="741" y="368" key="#SQL_Dialects" timestamp="1600346987858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="741" y="368" key="#SQL_Dialects/0.0.1920.1040@0.0.1920.1040" timestamp="1600346987858" />
+    <state x="108" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600270909801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="108" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600270909801" />
+    <state x="989" y="407" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1599831025619">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="989" y="407" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599831025619" />
+    <state x="285" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1600347255325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="285" y="242" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600347255325" />
+    <state x="93" y="100" width="774" height="847" key="DiffContextDialog" timestamp="1600271817020">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="93" y="100" width="774" height="847" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600271817020" />
+    <state x="1086" y="285" key="FileChooserDialogImpl" timestamp="1600697615198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1086" y="285" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600697615198" />
+    <state x="352" y="426" width="410" height="195" key="Github.ShareDialog" timestamp="1600341125018">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="352" y="426" width="410" height="195" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600341125018" />
+    <state x="182" y="224" key="Github.UntrackedFilesDialog" timestamp="1600340898208">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="182" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600340898208" />
+    <state width="215" height="454" key="HiddenNamespacesPopup" timestamp="1600256374507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="215" height="454" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1600256374507" />
+    <state x="222" y="271" key="NewPhpClassDialog" timestamp="1600683286854">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="222" y="271" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600683286854" />
+    <state x="1255" y="454" key="NewPhpFileDialog" timestamp="1600684591007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1255" y="454" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600684591007" />
+    <state x="873" y="165" width="983" height="798" key="SettingsEditor" timestamp="1600347460221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="873" y="165" width="983" height="798" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600347460221" />
+    <state x="72" y="259" key="Vcs.Push.Dialog.v2" timestamp="1600341986163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="72" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600341986163" />
+    <state x="331" y="489" key="WebDeployment.AddServerDialog.v.1" timestamp="1600271534194">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="331" y="489" key="WebDeployment.AddServerDialog.v.1/0.0.1920.1040@0.0.1920.1040" timestamp="1600271534194" />
+    <state x="93" y="100" width="842" height="847" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600333341899">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="93" y="100" width="842" height="847" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600333341899" />
+    <state x="283" y="194" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600272921509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="283" y="194" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600272921509" />
+    <state x="182" y="348" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1600332550876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="182" y="348" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600332550876" />
+    <state x="884" y="66" width="703" height="942" key="dock-window-1" timestamp="1600346904161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="884" y="66" width="703" height="942" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1600346904161" />
+    <state x="190" y="150" width="579" height="747" key="find.popup" timestamp="1600332778669">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="190" y="150" width="579" height="747" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600332778669" />
+    <state x="316" y="259" key="ftp.server.browser" timestamp="1600271634069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="316" y="259" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1600271634069" />
+    <state x="246" y="446" width="627" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1600073082461">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="246" y="446" width="627" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600073082461" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1600332754979">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600332754979" />
+    <state x="404" y="253" width="672" height="678" key="search.everywhere.popup" timestamp="1600332841555">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="404" y="253" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600332841555" />
+  </component>
+  <component name="regexState">
+    <option name="map">
+      <map>
+        <entry key="flags" value="0" />
+        <entry key="mode" value="0" />
+        <entry key="regex" value="(19||20)\d\d([- /.])(0[1-9]||1[012])\2(0[1-9]||[12][0-9]||3[01])" />
+        <entry key="text" value="1900-01-01 2007/08/13 1900.01.01 1900 01 01 1900-01.01 1900 13 01 1900 02 31" />
+      </map>
+    </option>
+  </component>
+</project>
